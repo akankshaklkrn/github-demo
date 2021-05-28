@@ -1,6 +1,6 @@
 # Add implementation headers
 def add(x,y):
-	pass
+	return x+y 	#master
 def subtract(x,y):
 	pass
 def multipy(x,y):
