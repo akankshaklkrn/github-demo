@@ -1,4 +1,4 @@
-# Add implementation
+# Add implementation headers
 def add(x,y):
 	pass
 def subtract(x,y):
